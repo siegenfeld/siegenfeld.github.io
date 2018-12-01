@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Siegenfeld</title>
+    <link>https://siegenfeld.github.io/</link>
+    <description>Recent content on Alex Siegenfeld</description>
+    <generator>Hugo - gohugo.io</generator>
+    <language>en</language>
+    <contact></contact>
+    <copyright>&copy; Alexander Siegenfeld 2018</copyright>
+    
+        <atom:link href="https://siegenfeld.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://siegenfeld.github.io/post/2018-12-1-welcome/</link>
+      <pubDate>Sat, 01 Dec 2018 16:47:15 -0500</pubDate>
+      <author></author>
+      <guid>https://siegenfeld.github.io/post/2018-12-1-welcome/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
