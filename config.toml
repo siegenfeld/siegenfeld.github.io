@@ -1,3 +1,25 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://siegenfeld.github.io/"
+languageCode = "en"
+title = "Alex Siegenfeld"
+theme = "kiss"
+copyright = "&copy; Alexander Siegenfeld 2018"
+disqusShortname = ""
+googleAnalytics = ""
+# Number of posts per page
+Paginate = 5
+enableRobotsTXT = true
+
+
+[params.assets]
+customCSS = []
+
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = false # Adds OpenGraph and Twitter cards
+homeTitle = "" # Title for home page
+poweredby = false # Adds powered by Hugo and Kiss below Copyright section
+related = true # Includes related articles
+
+[taxonomies]
+tag ="tags"
+
